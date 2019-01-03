@@ -1,10 +1,8 @@
 #!/system/xbin/bash
-#Author InYourDfv47
-#Thanks to
-#Termux Termux Tools-ID
-#Elite Muslim Cyber Army
-#Netral Cyber Team
-#2Easy 4Hack
+#Author Bahauddin
+#
+#
+#
 
 clear
 blue='\033[34;1m'
@@ -18,19 +16,21 @@ NOW=`date "+%d.%m.%Y"`
 TIME=`date "+%H:%M"`
 
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo -e  "_____________________________________________________________"
-echo -e  "Tools    : 0daysecurity98 $white         " |lolcat
-echo -e  "Creadby  : 0day $white   " |lolcat
-echo -e  "Contact  : attackofcyber969@gmail.com $white " |lolcat
-echo -e  "_____________________________________________________________"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 echo ""
-echo $white".:Ini Adalah Tools Installer Yang Dibuat Oleh InYourDfv47:."
-echo $purple"...........::::::::::Karya Anak Bangsa::::::::::..........."
+echo $white".:WELCOME TO MY TOOL HACKING BRO.............HAPPY HACKING:."
+echo $purple"...........::::::::::Bahauddin Mr.B4h4'::::::::::..........."
 echo $cyan".::Bermimpi lah Setinggi Langit Karena Mimpi itu Gratis:.."
-echo $green"......::::::Silahkan Pilih Tools Yang Tersedia:::::::......"
+echo $green"......::::::MONGGO DI Pilih Tools Yang Tersedia:::::::......"
 echo $yellow
 date 
 echo "\033[36;1m"
@@ -248,20 +248,16 @@ if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Learn Hack..."
 sleep 1
@@ -275,20 +271,16 @@ if [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing LITEDDOS..."
 sleep 1
@@ -305,20 +297,16 @@ if [ $bro = 3 ] || [ $bro = 3 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin" -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Torshammer DDOS..."
 sleep 1
@@ -336,21 +324,16 @@ if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-sleep 1
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 echo $green"Installing Xerxes DDOS..."
 sleep 1
 apt update && apt upgrade
@@ -369,20 +352,16 @@ if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green" Installing Hammer DDOS.."
 sleep 1
@@ -397,20 +376,16 @@ if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Jaringan Dipercepat..."
 echo ""
@@ -422,20 +397,16 @@ if [ $bro = 7 ] || [ $bro = 7 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Jaringan Dipercepat..."
 echo ""
@@ -447,20 +418,16 @@ if [ $bro = 8 ] || [ $bro = 8 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Red Hawk..."
 sleep 1
@@ -478,20 +445,16 @@ if [ $bro = 9 ] || [ $bro = 9 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Txtool..."
 sleep 1
@@ -507,20 +470,16 @@ if [ $bro = 10 ] || [ $bro = 10 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Sqlmap..."
 sleep 1
@@ -537,20 +496,16 @@ if [ $bro = 11 ] || [ $bro = 11 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Hash-buster..."
 sleep 1
@@ -567,20 +522,16 @@ if [ $bro = 12  || [ $bro = 12 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Hunner Framework..."
 sleep 1
@@ -597,20 +548,16 @@ if [ $bro = 13 ] || [ $bro = 13 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Loading Tod:v..."
 sleep 1
@@ -622,20 +569,16 @@ if [ $bro = 14 ] || [ $bro = 14 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Ko-Dork..."
 sleep 1
@@ -652,20 +595,16 @@ if [ $bro = 15 ] || [ $bro = 15 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing 4wsectools..."
 sleep 1
@@ -682,20 +621,16 @@ if [ $bro = 16 ] || [ $bro = 16 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing BinGoo..."
 sleep 1
@@ -709,20 +644,16 @@ if [ $bro = 17 ] || [ $bro = 17 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing GadoGado..."
 sleep 1
@@ -740,20 +671,16 @@ if [ $bro = 18 ] || [ $bro = 18 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"1m[^_^]"
 sleep 1
 echo $green"Installing GadoGado..."
 sleep 1
@@ -771,20 +698,16 @@ if [ $bro = 19 ] || [ $bro = 19 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing GadoGado..."
 sleep 1
@@ -800,20 +723,16 @@ if [ $bro = 20 ] || [ $bro = 20 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $cyan"Kalau Mau Tutorial PC gua tak"
 sleep 1
@@ -829,20 +748,16 @@ if [ $bro = 21 ] || [ $bro = 21 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Moon-Bugy..."
 sleep 1
@@ -854,20 +769,16 @@ if [ $bro = 22 ] || [ $bro = 22 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Moon-Bugy..."
 sleep 1
@@ -882,20 +793,16 @@ if [ $bro = 64 ] || [ $bro = 64 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Black-Hydra..."
 sleep 1
@@ -912,20 +819,16 @@ if [ $bro = 24 ] || [ $bro = 24 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $cyan"Kalau Mau Tutorial PC gua tak"
 sleep 1
@@ -939,20 +842,16 @@ if [ $bro = 25 ] || [ $bro = 25 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Cupp Buat Worldlist Tertarget..."
 sleep 1
@@ -967,20 +866,16 @@ if [ $bro = 26 ] || [ $bro = 26 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing SocialFish..."
 sleep 1
@@ -999,20 +894,16 @@ if [ $bro = 27 ] || [ $bro = 27 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing PhisingGame..."
 sleep 1
@@ -1027,20 +918,16 @@ if [ $bro = 28 ] || [ $bro = 28 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Breacher..."
 sleep 1
@@ -1056,20 +943,16 @@ if [ $bro = 29 ] || [ $bro = 29 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Hasher..."
 sleep 1
@@ -1087,20 +970,16 @@ if [ $bro = 30 ] || [ $bro = 30 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing IPGeoLocation..."
 sleep 1
@@ -1120,20 +999,16 @@ if [ $bro = 31 ] || [ $bro = 31 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Auxscan2.0..."
 sleep 1
@@ -1151,20 +1026,16 @@ if [ $bro = 32 ] || [ $bro = 32 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing AstraNmap..."
 sleep 1
@@ -1183,20 +1054,16 @@ if [ $bro = 33 ] || [ $bro = 33 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing OWScan..."
 sleep 1
@@ -1213,20 +1080,16 @@ if [ $bro = 34 ] || [ $bro = 34 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Kawai-Botnet Buat DDOS..."
 sleep 1
@@ -1244,20 +1107,16 @@ if [ $bro = 35 ] || [ $bro = 35 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing viSQL..."
 sleep 1
@@ -1277,20 +1136,16 @@ if [ $bro = 36 ] || [ $bro = 36 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing WAScan..."
 sleep 1
@@ -1311,20 +1166,16 @@ if [ $bro = 37 ] || [ $bro = 37 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing MBF..."
 sleep 1
@@ -1340,20 +1191,16 @@ if [ $bro = 38 ] || [ $bro = 38 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing MetaSploit..."
 sleep 1
@@ -1370,20 +1217,16 @@ if [ $bro = 39 ] || [ $bro = 39 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Mps_Youtube..."
 sleep 1
@@ -1401,20 +1244,16 @@ if [ $bro = 40 ] || [ $bro = 40 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing M3m_Browsing..."
 sleep 1
@@ -1427,20 +1266,16 @@ if [ $bro = 41 ] || [ $bro = 41 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Scan-Website-Admin-Login..."
 sleep 1
@@ -1454,20 +1289,16 @@ if [ $bro = 42 ] || [ $bro = 42 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing A-Rat..."
 sleep 1
@@ -1481,20 +1312,16 @@ if [ $bro = 43 ] || [ $bro = 43 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Weeman..."
 sleep 1 
@@ -1510,20 +1337,16 @@ if [ $bro = 44 ] || [ $bro = 44 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Diejoubu..."
 sleep 1 
@@ -1540,20 +1363,16 @@ if [ $bro = 45 ] || [ $bro = 45 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Lazysqlmap..."
 sleep 1 
@@ -1572,20 +1391,16 @@ if [ $bro = 46 ] || [ $bro = 46 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing IesDeface..."
 sleep 1 
@@ -1602,20 +1417,16 @@ if [ $bro = 47 ] || [ $bro = 47 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing ErrorCyberTool..."
 sleep 1 
@@ -1630,20 +1441,16 @@ if [ $bro = 48 ] || [ $bro = 48 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Tuyul Bitcoin..."
 sleep 1 
@@ -1658,20 +1465,16 @@ if [ $bro = 49 ] || [ $bro = 49 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Google-Dork..."
 sleep 1 
@@ -1689,20 +1492,16 @@ if [ $bro = 50 ] || [ $bro = 50 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Auto Report Fb..."
 sleep 1 
@@ -1720,20 +1519,16 @@ if [ $bro = 51 ] || [ $bro = 51 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Insthack Instagram..."
 sleep 1 
@@ -1751,20 +1546,16 @@ if [ $bro = 52 ] || [ $bro = 52 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Facebook-Video-Downloader..."
 sleep 1 
@@ -1782,20 +1573,16 @@ if [ $bro = 53 ] || [ $bro = 53 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Instabot..."
 sleep 1 
@@ -1814,20 +1601,16 @@ if [ $bro = 54 ] || [ $bro = 54 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing LITESCRIPT..."
 sleep 1 
@@ -1845,20 +1628,16 @@ if [ $bro = 55 ] || [ $bro = 55 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Script-Deface-Creator..."
 sleep 1 
@@ -1872,20 +1651,16 @@ if [ $bro = 56 ] || [ $bro = 56 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Brute_force_gmail..."
 sleep 1 
@@ -1901,20 +1676,16 @@ if [ $bro = 57 ] || [ $bro = 57 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Kali Ubuntu..."
 sleep 1 
@@ -1933,20 +1704,16 @@ if [ $bro = 58 ] || [ $bro = 58 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Kali Ubuntu..."
 sleep 1 
@@ -1965,20 +1732,16 @@ if [ $bro = 59 ] || [ $bro = 59 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing D-Tech..."
 sleep 1 
@@ -1995,20 +1758,16 @@ if [ $bro = 60 ] || [ $bro = 60 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing D-Tech..."
 sleep 1 
@@ -2027,20 +1786,16 @@ if [ $bro = 60 ] || [ $bro = 60 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Joomscan..."
 sleep 1 
@@ -2059,20 +1814,16 @@ if [ $bro = 61 ] || [ $bro = 61 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing meTAInstall..."
 sleep 1 
@@ -2092,20 +1843,16 @@ if [ $bro = 62 ] || [ $bro = 62 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Lokomedia..."
 sleep 1 
@@ -2122,20 +1869,16 @@ if [ $bro = 63 ] || [ $bro = 63 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing WPSeku..."
 sleep 1 
@@ -2154,20 +1897,16 @@ if [ $bro = 64 ] || [ $bro = 64 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Download Dulu fbbrute.py dan password.txt Di Google"
 sleep 1 
@@ -2188,20 +1927,16 @@ if [ $bro = 65 ] || [ $bro = 65 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Recondog..."
 sleep 1 
@@ -2219,20 +1954,16 @@ if [ $bro = 66 ] || [ $bro = 66 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Hash Generator..."
 sleep 1 
@@ -2250,20 +1981,16 @@ if [ $bro = 67 ] || [ $bro = 67 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing TheFatRat..."
 sleep 1 
@@ -2280,20 +2007,16 @@ if [ $bro = 68 ] || [ $bro = 68 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Routersploit..."
 sleep 1 
@@ -2309,20 +2032,16 @@ if [ $bro = 69 ] || [ $bro = 69 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Webdav..."
 sleep 1 
@@ -2346,21 +2065,16 @@ if [ $bro = 70 ] || [ $bro = 70 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-sleep 1
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"sleep 1
 echo $green"Installing Multi Brute Webdav..."
 sleep 1 
 apt install toilet
@@ -2376,20 +2090,16 @@ if [ $bro = 71 ] || [ $bro = 71 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing HAKKU..."
 sleep 1
@@ -2402,20 +2112,16 @@ if [ $bro = 72 ] || [ $bro = 72 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing FSOCIETY..."
 sleep 1
@@ -2430,20 +2136,16 @@ if [ $bro = 73 ] || [ $bro = 73 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Admin Finder..."
 sleep 1
@@ -2458,20 +2160,16 @@ if [ $bro = 74 ] || [ $bro = 74 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Tembak Xl..."
 sleep 1
@@ -2487,20 +2185,16 @@ if [ $bro = 75 ] || [ $bro = 75 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Wifi-Hacker..."
 sleep 1
@@ -2517,20 +2211,16 @@ if [ $bro = 76 ] || [ $bro = 76 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Kereta..."
 sleep 1
@@ -2542,20 +2232,16 @@ if [ $bro = 77 ] || [ $bro = 77 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Neofetch..."
 sleep 1
@@ -2567,20 +2253,16 @@ if [ $bro = 78 ] || [ $bro = 78 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Figlet..."
 sleep 1
@@ -2594,20 +2276,16 @@ if [ $bro = 79 ] || [ $bro = 79 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Termux-Api..."
 sleep 1
@@ -2622,20 +2300,16 @@ if [ $bro = 80 ] || [ $bro = 80 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing ASCII ART MAPS..."
 sleep 1
@@ -2654,20 +2328,16 @@ if [ $bro = 81 ] || [ $bro = 81 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing HN-Installer..."
 sleep 1
@@ -2685,20 +2355,16 @@ if [ $bro = 82 ] || [ $bro = 82 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Fucking-Rat..."
 sleep 1
@@ -2712,20 +2378,16 @@ if [ $bro = 83 ] || [ $bro = 83 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Killr..."
 sleep 1
@@ -2740,20 +2402,16 @@ if [ $bro = 84 ] || [ $bro = 84 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Linux Fedora..."
 sleep 1
@@ -2771,20 +2429,16 @@ if [ $bro = 85 ] || [ $bro = 85 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Ezsploit..."
 sleep 1
@@ -2798,7 +2452,7 @@ if [ $bro = 86 ] || [ $bro = 86 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
 echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
@@ -2826,20 +2480,16 @@ if [ $bro = 87 ] || [ $bro = 87 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Dirsearch..."
 sleep 1
@@ -2854,20 +2504,16 @@ if [ $bro = 88 ] || [ $bro = 88 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing CamStream-V3..."
 sleep 1
@@ -2881,20 +2527,16 @@ if [ $bro = 89 ] || [ $bro = 89 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing cstfpocmaker..."
 sleep 1
@@ -2908,20 +2550,16 @@ if [ $bro = 90 ] || [ $bro = 90 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing BruteXSS..."
 sleep 1
@@ -2942,20 +2580,16 @@ if [ $bro = 91 ] || [ $bro = 91 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing B4J1N64Nv4..."
 sleep 1
@@ -2969,20 +2603,16 @@ if [ $bro = 92 ] || [ $bro = 92 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing B4J1N64Nv5..."
 sleep 1
@@ -2996,20 +2626,16 @@ if [ $bro = 93 ] || [ $bro = 93 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing B4J1N64Nv6..."
 sleep 1
@@ -3024,20 +2650,16 @@ if [ $bro = 94 ] || [ $bro = 94 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing TOOLSINSTALLERv4..."
 sleep 1
@@ -3055,20 +2677,16 @@ if [ $bro = 95 ] || [ $bro = 95 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Spam Wa..."
 sleep 1
@@ -3083,20 +2701,16 @@ if [ $bro = 96 ] || [ $bro = 85 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Microtools..."
 sleep 1
@@ -3108,20 +2722,16 @@ if [ $bro = 97 ] || [ $bro = 97 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Simpletools..."
 sleep 1
@@ -3133,20 +2743,16 @@ if [ $bro = 98 ] || [ $bro = 98 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing TU4N N1CKN4M3 TOOLSv2..."
 sleep 1
@@ -3163,20 +2769,16 @@ if [ $bro = 99 ] || [ $bro = 99 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing cstfpocmaker..."
 sleep 1
@@ -3193,20 +2795,16 @@ if [ $bro = 100 ] || [ $bro = 100 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Mpos..."
 sleep 1
@@ -3220,52 +2818,48 @@ if [ $bro = 00 ] || [ $bro = 00 ]
 then
 clear
 echo
-toilet -f standard " InYourDfv47 " -F gay
+toilet -f standard " Bahauddin " -F gay
 echo
 echo ""
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
-echo $green"|  [Author      ]: InYourDfv47 °      °         °     °  |"
-echo $yellow"|  [Version     ]: Tools Installer  °       °      °   ° |"
-echo $red"|  [Team        ]: Termux Tools-ID  °      °      °    ° |"
-echo $white"|  [Phone       ]: 082223108828     °       °     °   °  |"
-echo $purple"|  °      °	   [Thanks To All Member]     °          |"
-echo $cyan"|  °	     °   °   [Termux Tools-ID] °	  	°|" 
-echo $green"|°	°       °[Elite Muslim Cyber Army]°	   °   ° |"
-echo $yellow"|	     °     [Nertral Cyber Team]   °    °     °   |"
-echo $red"|  °	 °        °   [2Easy 4Hack]°	    °      °    °|"
-echo "\033[34;1m[^_^]\033[36;1m===============================================\033[34;1m[^_^]"
+echo -e  "#############################################################"
+echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
+echo -e  "Created By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
+echo -e  "Contact  : 085726833815
+echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
+echo -e  "#############################################################"
 sleep 1
 echo $green"_ ▂ ▄ ▅ ▆ ▆ ▆ ▆ ▆ [ ABOUT ME ] ▆ ▆ ▆ ▆ ▆ ▆ ▅ ▄ ▂ _"
 sleep 1
 echo $yellow"Hello Every One"
 sleep 1
-echo $red"I'm InYourDfv47"
+echo $red"I'm Bahauddin"
 sleep 1
-echo $white"Team Code : Termux Tools-ID"
+echo $white"Team Code : CYBER NOOBSTAYU PATI "
 sleep 1
 echo $purple"Team Cyber :"
 sleep 1
-echo $cyan"Elite Muslim Cyber Army"
-echo $green"2Easy 4Hack"
-echo $yellow"Netral Cyber Team"
+echo $cyan"Muslim Cyber Army"
+echo $green"INDONESIAN CYBER ARMY"
+echo $yellow"ACEH Cyber Team"
 sleep 1
 echo $red"We Are From Termux Tools-ID"
 echo $white"###########################################"
 sleep 1
-echo $purple"Since 22 July 2018"
+echo $purple"Since 3 Januari 2019"
 echo $white"###########################################"
 sleep 1
-echo $cyan"The Leader Is :"
+echo $cyan"Created By :"
 echo $white"###########################################"
 sleep 1
-echo $green"Dfv47 And Mr_tr3v!0n"
+echo $green"Bahauddin"
 echo $white"###########################################"
 sleep 1
 echo $purple"Thanks To All My Friends :"
 echo $white"###########################################"
 sleep 1
-echo $green"Rusmana-ID | xNot_Found | InYourS!te |"
-echo $yellow"Death_God_Warrior#135 | MicroClone |"
+echo $green"Mr.CHEMOD777 | ROOTNET | CYBERGHOST |"
+echo $yellow"Death_God_Warrior#135 | 25JUL |"
 echo $red"InYourTU4N N1CKN4M3 | Zhu Bai Lee | Mr.Rais |"
 echo $purple"Intect | Mr.Tobz | Droid-X-Fahri |"
 echo $cyan"InYourHeart | InYourMRA | Mr.Z3n0X |"
@@ -3299,7 +2893,7 @@ echo $purple"And"
 sleep 1
 echo $cyan"Respect Us"
 sleep 1
-echo $green"Bermimpi Setinggi Langit Karena Mimpi Itu Gratis"
+echo $green"SENG PENTING ROKOK KOPI LANCAR VROH"
 sleep 1
 echo $yellow"Dan Berusahalah Untuk Mencapai Mimpimu Tersebut Walaupun Mustahil"
 sleep 1
