@@ -35,7 +35,7 @@ echo $yellow
 date 
 echo "\033[36;1m"
 echo "[+]===============================================[+]"
-echo $red"|  [1] Materi Hacking Ala InYourDfv47               |"
+echo $red"|  [1] HACK FACEBOOK BRUTE FORCE               |"
 echo "[+]===============================================[+]"
 echo $white"|  [2] DDOS Website Dengan LITEDDOS                 |"
 echo "[+]===============================================[+]"
@@ -45,9 +45,9 @@ echo $cyan"|  [4] DDOS Website Dengan Xerxes                   |"
 echo "[+]===============================================[+]"
 echo $green"|  [5] DDOS Website Dengan Hammer                   |"
 echo "[+]===============================================[+]"
-echo $yellow"|  [6] Mempercepat / Menstabilkan Sinyal 1          |"
+echo $yellow"|  [6] IESDEFACE          |"
 echo "[+]===============================================[+]"
-echo $red"|  [7] Mempercepat / Menstabilkan Sinyal 2          |"
+echo $red"|  [7] HACK FB MBF          |"
 echo "[+]===============================================[+]"
 echo $white"|  [8] Install Red_Hawk                             |"
 echo "[+]===============================================[+]"
@@ -55,19 +55,19 @@ echo $purple"|  [9] Instal Txtool                                |"
 echo "[+]===============================================[+]"
 echo $cyan"|  [10] Install Sqlmap Buat Inject Situs            |"
 echo "[+]===============================================[+]"
-echo $green"|  [11] Install Hash-buster                         |"
+echo $green"|  [11] SPAM WHATSAPP                        |"
 echo "[+]===============================================[+]"
-echo $yellow"|  [12] Install  Hunner Framework                   |"
+echo $yellow"|  [12] BREACHER                   |"
 echo "[+]===============================================[+]"
-echo $red"|  [13] Lihat Spesifikasi Ponsel                    |"
+echo $red"|  [13] HACK INSTAGRAM                   |"
 echo "[+]===============================================[+]"
-echo $white"|  [14] Install Ko-Dork                             |"
+echo $white"|  [14] TOOL BAJINGANV6                            |"
 echo "[+]===============================================[+]"
-echo $purple"|  [15] Install 4wsectools                          |"
+echo $purple"|  [15] SQLI SCAN                         |"
 echo "[+]===============================================[+]"
-echo $cyan"|  [16] Install BinGoo                              |"
+echo $cyan"|  [16] HACK WIFI ROOT                              |"
 echo "[+]===============================================[+]"
-echo $green"|  [17] Install GadoGado                            |"
+echo $green"|  [17] BRUTE FORCE GMAIL                            |"
 echo "[+]===============================================[+]"
 echo
 echo "\033[32;1m"
@@ -89,12 +89,19 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing Learn Hack..."
-sleep 1
-git clone https://github.com/Dfv47/learn
-mv learn $HOME
-cd $HOME/learn
-sh learn.sh
+echo $green"Download Dulu fbbrute.py dan password.txt Di Google"
+sleep 1 
+echo $yellow"Taruh Di Luar Folder"
+sleep 4
+apt update
+apt upgrade 
+apt install python2
+apt install python2-dev
+apt install wget
+pip2 install mechanize
+cd/storage/emulated/0
+python2 fbbrute.py
+storage/emulated/0/password.txt
 fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
@@ -217,11 +224,17 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Jaringan Dipercepat..."
-echo ""
-echo ""
-ping 8.8.8.8 
+echo $green"Installing IesDeface..."
+sleep 1 
+apt install git
+apt install bash
+pip2 install bash
+git clone https://github.com/ALX-04/iesDEFACE
+mv iesDEFACE $HOME
+cd $HOME/iesDEFACE
+bash iesDeface.sh
 fi
+
 
 if [ $bro = 7 ] || [ $bro = 7 ]
 then
@@ -238,10 +251,14 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Jaringan Dipercepat..."
-echo ""
-echo ""
-ping -D www.google.com
+echo $green"Installing MBF..."
+sleep 1
+pkg install python2
+pip2 install mechanize
+git clone https://github.com/hnov7/mbf
+mv mbf $HOME
+cd $HOME/mbf
+python2 mbf.py
 fi
 
 if [ $bro = 8 ] || [ $bro = 8 ]
@@ -337,15 +354,13 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing Hash-buster..."
+echo $green"Installing Spam Wa..."
 sleep 1
-apt upgrade
-apt install python2
-apt install git
-git clone https://github.com/UltimateHackers/Hash-Buster
-mv Hash-Buster $HOME
-cd $HOME/Hash-Buster
-python2 hash.py
+pkg install unzip
+git clone https://github.com/Rusmana-ID/rus
+mv rus $HOME
+cd $HOME/rus
+share spam.sh
 fi
 
 if [ $bro = 12  || [ $bro = 12 ]
@@ -363,15 +378,14 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing Hunner Framework..."
+echo $green"Installing Breacher..."
 sleep 1
-apt update
-apt install git
-git clone https://github.com/b3-v3r/Hunner.git
-mv Hunner $HOME
-cd $HOME/Hunner
-chmod +x hunner.py
-python2 hunner.py
+pkg install python2
+pkg install git
+git clone https://github.com/UltimateHackers/Breacher.git
+mv Breacher $HOME
+cd $HOME/Breacher
+python2 breacher.py
 fi
 
 if [ $bro = 13 ] || [ $bro = 13 ]
@@ -389,10 +403,16 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing Loading Tod:v..."
-sleep 1
-pkg install neofetech
-neofetech
+echo $green"Installing Insthack Instagram..."
+sleep 1 
+apt update 
+apt upgrade
+apt install python2 
+apt install git
+git clone https://github.com/avramit/Instahack
+mv Instahack $HOME
+cd $HOME/Instahack
+python2 hackinsta.py
 fi
 
 if [ $bro = 14 ] || [ $bro = 14 ]
@@ -410,15 +430,12 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing Ko-Dork..."
+echo $green"Installing B4J1N64Nv6..."
 sleep 1
-pkg update && pkg upgrade
-pkg install git 
-pkg install python2
-git clone https://github.com/ciku370/ko-dork.git
-mv ko-dork $HOME
-cd $HOME/ko-dork
-python2 dork.py
+git clone https://github.com/DarknessCyberTeam/BAJINGAN
+mv BAJINGANv6 $HOME
+cd $HOME/BAJINGANv6
+sh BAJINGAN.sh
 fi
 
 if [ $bro = 15 ] || [ $bro = 15 ]
@@ -436,15 +453,15 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing 4wsectools..."
+echo $green"Installing SQLI SCAN..."
 sleep 1
-apt update
+apt update && apt upgrade
 apt install git
-git clone https://github.com/aryanrtm/4wsectools
-mv 4wsectools $HOME
-cd $HOME/4wsectools
-chmod 777 tools
-./tools
+apt install curl
+git clone https://github.com/thelinuxchoice/sqliscan/
+mv sqliscan $HOME
+cd $HOME/sqliscan
+bash sqliscan.sh
 fi
 
 if [ $bro = 16 ] || [ $bro = 16 ]
@@ -462,12 +479,15 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing BinGoo..."
+echo $green"Installing Wifi-Hacker..."
 sleep 1
-git clone https://github.com/Hood3dRob1n/BinGoo
-mv BinGoo $HOME
-cd $HOME/BinGoo
-bash bingoo
+mkdir vasu
+git clone https://github.com/esc0rtd3w/wifi-hacker
+mv wifi-hacker $HOME
+cd $HOME/wifi-hacker
+./install.sh
+chmod +x wifi-hacker.sh
+./wifi-hacker.sh
 fi
 
 if [ $bro = 17 ] || [ $bro = 17 ]
@@ -485,16 +505,14 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing GadoGado..."
-sleep 1
+echo $green"Installing Brute_force_gmail..."
+sleep 1 
 apt update && apt upgrade
-apt install ruby
-apt install lolcat
 apt install git
-git clone https://github.com/Senitopeng/GadoGado.git
-mv GadoGado $HOME
-cd $HOME/GadoGado
-bash gado
+git clone https://github.com/JamesAndresCM/Brute_force_gmail
+mv Brute_force_gmail $HOME
+cd $HOME/Brute_force_gmail
+ls
 fi
 
 
