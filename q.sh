@@ -241,8 +241,8 @@ echo $cyan"|  [0] Exit                                         |"
 echo "[+]===============================================[+]"
 echo
 echo "\033[32;1m"
-read -p "╭─[Pilih Nomer]
-╰─root@Dfv47=•>" bro
+read -p "╭─>[Pilih Nomer]
+╰─>root@Bahauddin=•>" bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
