@@ -170,12 +170,10 @@ echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 echo $green"Installing AOC DEFACE..."
 sleep 1
-apt update
-apt upgrade
 apt install git
 git clone https://github.com/Amriez/AOCDEFACE.git
-mv AOCDEDAFACE $HOME
-cd $HOME/AOCDEDAFACE
+mv AOCDEFACE $HOME
+cd $HOME/AOCDEFACE
 sh install.sh
 sh AOC.sh
 fi
