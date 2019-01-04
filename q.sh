@@ -117,7 +117,6 @@ echo -e  "#############################################################"
 sleep 1
 echo $green"Installing LITEDDOS..."
 sleep 1
-apt install git
 git clone https://github.com/4L13199/LITEDDOS
 mv LITEDDOS $HOME
 cd $HOME/LITEDDOS
@@ -193,7 +192,6 @@ echo -e  "#############################################################"
 sleep 1
 echo $green" Installing Hammer DDOS.."
 sleep 1
-pkg install git
 git clone http://github.com/cyweb/hammer
 mv hammer $HOME
 cd $HOME/hammer
@@ -273,9 +271,6 @@ echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Red Hawk..."
 sleep 1
-apt update
-apt install git
-apt install php
 git clone https://github.com/Tuhinshubhra/RED_HAWK
 mv RED_HAWK $HOME
 cd $HOME/RED_HAWK
@@ -327,7 +322,7 @@ echo $green"Installing Sqlmap..."
 sleep 1
 pkg update && pkg upgrade
 pkg install python2
-apt install git
+pkg install git
 git clone https://github.com/sqlmapproject/sqlmap
 mv sqlmap $HOME
 cd $HOME/sqlmap
@@ -352,8 +347,8 @@ sleep 1
 echo $green"Installing Spam Wa..."
 sleep 1
 apt update && apt upgrade
-pkg install git
-pkg install php
+apt install git
+apt install php
 git clone https://github.com/siputra12/prank/
 mv prank $HOME
 cd $HOME/prank
