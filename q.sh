@@ -117,6 +117,8 @@ echo -e  "#############################################################"
 sleep 1
 echo $green"Installing LITEDDOS..."
 sleep 1
+apt update
+apt install git
 git clone https://github.com/4L13199/LITEDDOS
 mv LITEDDOS $HOME
 cd $HOME/LITEDDOS
@@ -195,7 +197,7 @@ sleep 1
 git clone http://github.com/cyweb/hammer
 mv hammer $HOME
 cd $HOME/hammer
-python hammer.py
+python2 hammer.py
 fi
 
 if [ $bro = 6 ] || [ $bro = 6 ]
