@@ -57,7 +57,7 @@ echo $cyan"  [10] SQLMAP                                 "
 echo "#####################################################"
 echo $green"  [11] ADMIN LOGIN                         "
 echo "#####################################################"
-echo $yellow"  [12] RECONDOG                        "
+echo $yellow"  [12] DDOS HAMMER                        "
 echo "#####################################################"
 echo $red"  [13] SQLMATE                                 "
 echo "#####################################################"
@@ -376,16 +376,13 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing RECONDOG..."
+echo $green"Installing DDOS HAMMER..."
 sleep 1
-apt update
-apt install python python2
-apt install git
-git clone https://github.com/UltimateHackers/ReconDog
-mv Recondog $HOME
-cd $HOME/Recondog
-chmod +x dog.py
-python2 dog.py
+git clone https://github.com/cyweb/hammer
+mv hammer $HOME
+cd $HOME/hammer
+read -p "Masukan Target:" target
+python2 hammer.py -T -t target
 fi
 
 if [ $bro = 13 ] || [ $bro = 13 ]
