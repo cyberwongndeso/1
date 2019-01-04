@@ -175,7 +175,6 @@ apt upgrade
 pkg install python2
 apt install git
 git clone https://github.com/Amriez/AOCDEFACE.git
-mv AOCDEDAFACE $HOME
 cd $HOME/AOCDEDAFACE
 sh install.sh
 sh AOC.sh
