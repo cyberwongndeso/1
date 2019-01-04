@@ -117,8 +117,6 @@ echo -e  "#############################################################"
 sleep 1
 echo $green"Installing LITEDDOS..."
 sleep 1
-apt update && apt upgrade
-apt install python2
 apt install git
 git clone https://github.com/4L13199/LITEDDOS
 mv LITEDDOS $HOME
@@ -195,9 +193,6 @@ echo -e  "#############################################################"
 sleep 1
 echo $green" Installing Hammer DDOS.."
 sleep 1
-apt update
-apt upgrade
-pkg install python2
 pkg install git
 git clone http://github.com/cyweb/hammer
 mv hammer $HOME
