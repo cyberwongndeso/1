@@ -16,7 +16,7 @@ NOW=`date "+%d.%m.%Y"`
 TIME=`date "+%H:%M"`
 
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
@@ -27,93 +27,89 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 echo ""
-echo $white".:WELCOME TO MY TOOL HACKING BRO.............HAPPY HACKING:."
+echo $white"============================================================="
 echo $purple"...........::::::::::Bahauddin Mr.B4h4'::::::::::..........."
-echo $cyan".::Bermimpi lah Setinggi Langit Karena Mimpi itu Gratis:.."
-echo $green"......::::::MONGGO DI Pilih Tools Yang Tersedia:::::::......"
+echo $cyan".:::::::::::::::::WELCOME TO MY TOOL HACKING:::::::::::::::::."
+echo $green"============================================================="
 echo $yellow
 date 
 echo "\033[36;1m"
-echo "[+]===============================================[+]"
-echo $red"|  [1] HACK FACEBOOK BRUTE FORCE               |"
-echo "[+]===============================================[+]"
-echo $white"|  [2] DDOS Website Dengan LITEDDOS                 |"
-echo "[+]===============================================[+]"
-echo $purple"|  [3] DDOS Website Dengan Torshammer               |"
-echo "[+]===============================================[+]"
-echo $cyan"|  [4] DDOS Website Dengan Xerxes                   |"
-echo "[+]===============================================[+]"
-echo $green"|  [5] DDOS Website Dengan Hammer                   |"
-echo "[+]===============================================[+]"
-echo $yellow"|  [6] IESDEFACE          |"
-echo "[+]===============================================[+]"
-echo $red"|  [7] HACK FB MBF          |"
-echo "[+]===============================================[+]"
-echo $white"|  [8] Install Red_Hawk                             |"
-echo "[+]===============================================[+]"
-echo $purple"|  [9] Instal Txtool                                |"
-echo "[+]===============================================[+]"
-echo $cyan"|  [10] Install Sqlmap Buat Inject Situs            |"
-echo "[+]===============================================[+]"
-echo $green"|  [11] SPAM WHATSAPP                        |"
-echo "[+]===============================================[+]"
-echo $yellow"|  [12] BREACHER                   |"
-echo "[+]===============================================[+]"
-echo $red"|  [13] HACK INSTAGRAM                   |"
-echo "[+]===============================================[+]"
-echo $white"|  [14] TOOL BAJINGANV6                            |"
-echo "[+]===============================================[+]"
-echo $purple"|  [15] SQLI SCAN                         |"
-echo "[+]===============================================[+]"
-echo $cyan"|  [16] HACK WIFI ROOT                              |"
-echo "[+]===============================================[+]"
-echo $green"|  [17] BRUTE FORCE GMAIL                            |"
-echo "[+]===============================================[+]"
+echo "#####################################################"
+echo $red"|  [1] BLACK HYDRA                              |"
+echo "#####################################################"
+echo $white"|  [2] LITEDDOS                               |"
+echo "#####################################################"
+echo $purple"|  [3] LAZYMUX                               |"
+echo "#####################################################"
+echo $cyan"|  [4] AOC DEFACE                              |"
+echo "#####################################################"
+echo $green"|  [5] DDOS HAMMER                            |"
+echo "#####################################################"
+echo $yellow"|  [6] SHELPHISH                             |"
+echo "#####################################################"
+echo $red"|  [7] HACK FACEBOOK MBF                        |"
+echo "#####################################################"
+echo $white"|  [8] REDHAWK                                |"
+echo "#####################################################"
+echo $purple"|  [9] TXTOOL                                |"
+echo "#####################################################"
+echo $cyan"|  [10] SQLMAP                                 |"
+echo "#####################################################"
+echo $green"|  [11] SPAM WHATSAPP                         |"
+echo "#####################################################"
+echo $yellow"|  [12] CREATER VIRUS                        |"
+echo "#####################################################"
+echo $red"|  [13] SQLMATE                                 |"
+echo "#####################################################"
+echo $white"|  [14] DARKFLY                               |"
+echo "#####################################################"
+echo $purple"|  [15] SQLI SCAN                            |"
+echo "#####################################################"
+echo $cyan"|  [16] HACK WIFI ROOT                         |"
+echo "#####################################################"
+echo $green"|  [17] ULTIMATE DORK                         |"
+echo "#####################################################"
 echo
 echo "\033[32;1m"
-read -p "╭─>[Pilih Nomer]
+read -p "╭─>[MONGGO PILIH NOMER]
 ╰─>root@Bahauddin=•>" bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Download Dulu fbbrute.py dan password.txt Di Google"
-sleep 1 
-echo $yellow"Taruh Di Luar Folder"
-sleep 4
-apt update
-apt upgrade 
+echo $green"Installing Black-Hydra..."
+sleep 1
+apt update && apt upgrade
+apt install python
 apt install python2
-apt install python2-dev
-apt install wget
-pip2 install mechanize
-cd/storage/emulated/0
-python2 fbbrute.py
-storage/emulated/0/password.txt
+git clone https://github.com/Gameye98/Black-Hydra.git
+mv Black-Hydra $HOME
+cd $HOME/Black-Hydra
+python2 blackhydra.py
 fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
@@ -121,80 +117,80 @@ echo -e  "#############################################################"
 sleep 1
 echo $green"Installing LITEDDOS..."
 sleep 1
-apt update
+apt update && apt upgrade
+apt install python2
 apt install git
 git clone https://github.com/4L13199/LITEDDOS
 mv LITEDDOS $HOME
 cd $HOME/LITEDDOS
-read -p "MasukanTarget:" target
-python2 LITEDDOS.py target 80 100
+python2 LITEDDOS.py
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin" -F gay
+toilet -f smblock " Bahauddin" -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing Torshammer DDOS..."
+echo $green"Installing LAZYMUX..."
 sleep 1
 apt update
+apt upgrade
+apt install python2
 apt install git
-apt install tor
-git clone https://github.com/dotfighter/torshammer.git
-mv torshammer $HOME
-cd $HOME/torshammer
-read -p "Masukan Target:" target
-python2 torshammer.py -T -t target
+git clone https://github.com/Gameye98/Lazymux
+mv Lazymux $HOME
+cd $HOME/Lazymux
+chmod +X*
+python2 lazymux.py
 fi
 
 if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
-echo $green"Installing Xerxes DDOS..."
+echo $green"Installing AOC DEFACE..."
 sleep 1
-apt update && apt upgrade
+apt update
+apt upgrade
+pkg install python2
 apt install git
-apt install clang
-git clone https://github.com/zanyarjamal/xerxes
-mv xerxes $HOME
-cd $HOME/xerxes
-clang xerxes.c -o xerxes
-clear
-read -p "[masukanWebsiteTarget]>" target
-./xerxes target 80
+git clone https://github.com/Amriez/AOCDEFACE.git
+mv AOCDEDAFACE $HOME
+cd $HOME/AOCDEDAFACE
+sh install.sh
+sh AOC.sh
 fi
 
 if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
@@ -202,37 +198,44 @@ echo -e  "#############################################################"
 sleep 1
 echo $green" Installing Hammer DDOS.."
 sleep 1
-git clone https://github.com/cyweb/hammer
+apt update
+apt upgrade
+pkg install python2
+pkg install git
+git clone http://github.com/cyweb/hammer
 mv hammer $HOME
 cd $HOME/hammer
-read -p "Masukan Target:" target
-python2 hammer.py -T -t target
+python hammer.py
 fi
 
 if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing IesDeface..."
+echo $green"Installing SHELPHISH..."
 sleep 1 
+apt update -y
+apt upgrade -y
 apt install git
-apt install bash
-pip2 install bash
-git clone https://github.com/ALX-04/iesDEFACE
-mv iesDEFACE $HOME
-cd $HOME/iesDEFACE
-bash iesDeface.sh
+apt install php
+apt install wget
+apt install curl
+apt install openssh
+git clone https://github.com/thelinuxchoice/shellphish.git
+mv shellphish $HOME
+cd $HOME/shellphish
+bash shellphish.sh
 fi
 
 
@@ -240,12 +243,12 @@ if [ $bro = 7 ] || [ $bro = 7 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
@@ -265,12 +268,12 @@ if [ $bro = 8 ] || [ $bro = 8 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
@@ -292,12 +295,12 @@ if [ $bro = 9 ] || [ $bro = 9 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
@@ -317,12 +320,12 @@ if [ $bro = 10 ] || [ $bro = 10 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
@@ -330,25 +333,25 @@ echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Sqlmap..."
 sleep 1
-apt update
+pkg update && pkg upgrade
+pkg install python2
 apt install git
 git clone https://github.com/sqlmapproject/sqlmap
 mv sqlmap $HOME
 cd $HOME/sqlmap
-read -p "masukan web target:" target
-python2 sqlmap.py -D target
+python2 sqlmap.py
 fi
 
 if [ $bro = 11 ] || [ $bro = 11 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
@@ -356,98 +359,110 @@ echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Spam Wa..."
 sleep 1
-pkg install unzip
-git clone https://github.com/Rusmana-ID/rus
-mv rus $HOME
-cd $HOME/rus
-share spam.sh
+apt update && apt upgrade
+pkg install git
+pkg install php
+git clone https://github.com/siputra12/prank/
+mv prank $HOME
+cd $HOME/prank
+php wa.php
 fi
 
 if [ $bro = 12  || [ $bro = 12 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing Breacher..."
+echo $green"Installing CREATER VIRUS..."
 sleep 1
-pkg install python2
+apt update && apt upgrade
+apt install python2
+gem install lolcat
+apt install figlet
 pkg install git
-git clone https://github.com/UltimateHackers/Breacher.git
-mv Breacher $HOME
-cd $HOME/Breacher
-python2 breacher.py
+pip2 install mechanize
+git clone https://github.com/virus09/CreaterVirus.git
+mv CreaterVirus $HOME
+cd $HOME/CreaterVirus
+python2 creater.py
 fi
 
 if [ $bro = 13 ] || [ $bro = 13 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing Insthack Instagram..."
+echo $green"Installing SQLMATE..."
 sleep 1 
-apt update 
-apt upgrade
+apt update && apt upgrade 
 apt install python2 
 apt install git
-git clone https://github.com/avramit/Instahack
-mv Instahack $HOME
-cd $HOME/Instahack
-python2 hackinsta.py
+pip2 install mechanize bs4 HTMLparser argparse requests urlparse2
+git clone https://github.com/UltimateHackers/sqlmate
+mv sqlmate $HOME
+cd $HOME/sqlmate
+chmod +x sqlmate
+python2 sqlmate
 fi
 
 if [ $bro = 14 ] || [ $bro = 14 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing B4J1N64Nv6..."
+echo $green"Installing DarkFly..."
 sleep 1
-git clone https://github.com/DarknessCyberTeam/BAJINGAN
-mv BAJINGANv6 $HOME
-cd $HOME/BAJINGANv6
-sh BAJINGAN.sh
+apt update
+apt upgrade
+apt install git
+git clone https://github.com/Ranginang67/DarkFly-Tool
+mv DarkFly-Tool $HOME
+cd $HOME/DarkFly-Tool
+chmod +x*
+python2 install.py
+DarkFly
 fi
 
 if [ $bro = 15 ] || [ $bro = 15 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
@@ -468,12 +483,12 @@ if [ $bro = 16 ] || [ $bro = 16 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
@@ -494,25 +509,26 @@ if [ $bro = 17 ] || [ $bro = 17 ]
 then
 clear
 echo
-toilet -f standard " Bahauddin " -F gay
+toilet -f smblock " Bahauddin " -F gay
 echo
 echo ""
 echo -e  "#############################################################"
 echo -e  "Tools    : TOOL HACKING INSTALLER         " |lolcat
-echo -e  "Creted By: Baha'uddin (Mr.B4h4')  " |lolcat
+echo -e  "CreatedBy: Baha'uddin (Mr.B4h4')  " |lolcat
 echo -e  "From     : Bendokaton Tayu Pati Jateng " |lolcat
 echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing Brute_force_gmail..."
+echo $green"Installing Ultimate Dork..."
 sleep 1 
-apt update && apt upgrade
-apt install git
-git clone https://github.com/JamesAndresCM/Brute_force_gmail
-mv Brute_force_gmail $HOME
-cd $HOME/Brute_force_gmail
-ls
+pkg update && pkg upgrade
+pkg install git python2
+git clone https://github.com/jaxBCD/Ultimate-Dork.git
+mv Ultimate-Dork $HOME
+cd $HOME/Ultimate-Dork
+pip2 install -r requirements.txt
+python2 ultimate-dork.py
 fi
 
 
