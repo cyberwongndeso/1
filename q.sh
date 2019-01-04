@@ -372,10 +372,6 @@ echo -e  "#############################################################"
 sleep 1
 echo $green"Installing CREATER VIRUS..."
 sleep 1
-apt update && apt upgrade
-apt install python2
-gem install lolcat
-apt install figlet
 pkg install git
 pip2 install mechanize
 git clone https://github.com/virus09/CreaterVirus.git
@@ -401,8 +397,6 @@ echo -e  "#############################################################"
 sleep 1
 echo $green"Installing SQLMATE..."
 sleep 1 
-apt update && apt upgrade 
-apt install python2 
 apt install git
 pip2 install mechanize bs4 HTMLparser argparse requests urlparse2
 git clone https://github.com/UltimateHackers/sqlmate
@@ -429,8 +423,6 @@ echo -e  "#############################################################"
 sleep 1
 echo $green"Installing DarkFly..."
 sleep 1
-apt update
-apt upgrade
 apt install git
 git clone https://github.com/Ranginang67/DarkFly-Tool
 mv DarkFly-Tool $HOME
