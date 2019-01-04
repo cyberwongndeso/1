@@ -37,7 +37,7 @@ echo "\033[36;1m"
 echo "#####################################################"
 echo $red"  [1] BLACK HYDRA                              "
 echo "#####################################################"
-echo $white"  [2] DDOS ACT                               "
+echo $white"  [2] LITEDDOS                              "
 echo "#####################################################"
 echo $purple"  [3] LAZYMUX                               "
 echo "#####################################################"
@@ -57,7 +57,7 @@ echo $cyan"  [10] SQLMAP                                 "
 echo "#####################################################"
 echo $green"  [11] ADMIN LOGIN                         "
 echo "#####################################################"
-echo $yellow"  [12] CREATER VIRUS                        "
+echo $yellow"  [12] RECONDOG                        "
 echo "#####################################################"
 echo $red"  [13] SQLMATE                                 "
 echo "#####################################################"
@@ -117,16 +117,13 @@ echo -e  "#############################################################"
 sleep 1
 echo $green"Installing DDOS ACT..."
 sleep 1
-apt update && apt upgrade
-apt install python
-apt install python-pip
-apt install install python-dev
+apt update
 apt install git
-git clone https://github.com/rootnet007/ddos.git
-mv ddos $HOME
-cd $HOME/ddos
-chmod +x dos.py
-python dos.py
+git clone https://github.com/4L13199/LITEDDOS
+mv LITEDDOS $HOME
+cd $HOME/LITEDDOS
+read -p "MasukanTarget:" target
+python2 LITEDDOS.py target 80 100
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
@@ -332,13 +329,13 @@ echo -e  "#############################################################"
 sleep 1
 echo $green"Installing Sqlmap..."
 sleep 1
-pkg update && pkg upgrade
-pkg install python2
-pkg install git
+apt update
+apt install git
 git clone https://github.com/sqlmapproject/sqlmap
 mv sqlmap $HOME
 cd $HOME/sqlmap
-python2 sqlmap.py
+read -p "masukan web target:" target
+python2 sqlmap.py -D target
 fi
 
 if [ $bro = 11 ] || [ $bro = 11 ]
@@ -379,14 +376,16 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing CREATER VIRUS..."
+echo $green"Installing RECONDOG..."
 sleep 1
-pkg install python2
-pkg install git
-git clone https://github.com/UltimateHackers/Breacher.git
-mv Breacher $HOME
-cd $HOME/Breacher
-python2 breacher.py
+apt update
+apt install python python2
+apt install git
+git clone https://github.com/UltimateHackers/ReconDog
+mv Recondog $HOME
+cd $HOME/Recondog
+chmod +x dog.py
+python2 dog.py
 fi
 
 if [ $bro = 13 ] || [ $bro = 13 ]
